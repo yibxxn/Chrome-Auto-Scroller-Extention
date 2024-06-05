@@ -6,7 +6,7 @@
 ## Version 1.0
 
 The current version has the basic endless scroll which works for endless scrolling websites like reddit/twitter.
-##Features to be added soon
+### Features to be added soon
    - User interface
    - Scroll feed
    - Time delay
